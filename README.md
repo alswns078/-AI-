@@ -1,1 +1,1 @@
-.
+pdfplumber 설치
